@@ -1,6 +1,6 @@
 ### Olá sou Emarson Santana 👋
 
-- 🌱 Estudante Atualmente, na área de tecnologia através do bootcamp da ONG Generation Brasil, tais como: Java (Spring Boot), Banco de Dados (MySQL), JavaScript (Angular, React), HTML, CSS e Bootstrap e SCRUM (metodologia ágil para gerenciamento de projetos)..
+- 🌱 Desenvolvedor FullStack Java, possuo conhecimento tais como: Java (Spring Boot), Banco de Dados (MySQL), JavaScript (Angular, React), HTML, CSS e Bootstrap e SCRUM (metodologia ágil para gerenciamento de projetos)..
 
 <div>
   <a href="https://github.com/EmersonSantana1994">
