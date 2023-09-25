@@ -3,7 +3,7 @@
 - 🌱 Desenvolvedor FullStack Java, possuo conhecimento tais como: Java (Spring Boot), Banco de Dados (MySQL), JavaScript (Angular, React), HTML, CSS e Bootstrap e SCRUM (metodologia ágil para gerenciamento de projetos)..
 
 <div>
-  <a href="https://github.com/EmersonSantana1994">
+
 
 </div>
   <div style="display: inline_block"><br>
