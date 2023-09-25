@@ -1,6 +1,6 @@
 ### Olá sou Emarson Santana 👋
 
-- 🌱 Desenvolvedor FullStack, possuo conhecimento tais como: Java (Spring Boot), NodeJS, Banco de Dados (MySQL), JavaScript (Angular, React), HTML, CSS e Bootstrap e SCRUM (metodologia ágil para gerenciamento de projetos)..
+- 🌱 Desenvolvedor FullStack, possuo conhecimento tais como: Java (Spring Boot), NodeJS, Banco de Dados (SQL, MySQL, MongoDB), JavaScript (Angular, React), HTML, CSS e Bootstrap e SCRUM (metodologia ágil para gerenciamento de projetos)..
 
 <div>
 
